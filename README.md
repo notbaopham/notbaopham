@@ -20,14 +20,7 @@
 
 ###
 
-<p align="left">✨ Have been hammering keyboards and coding since 2006 - currently working on a personal game dev project - Echoes of SERA.<br>🔌 Let's connect?</p>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-</div>
+<p align="left">✨ Have been hammering keyboards and coding since 2006 - currently working on a personal game dev project - Echoes of SERA.</p>
 
 ###
 
