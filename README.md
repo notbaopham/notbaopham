@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">✨ Have been hammering keyboards and coding since 2006 - currently working on a personal game dev project - Echoes of SERA.</p>
+<p align="left">✨ Coding since 2006 — what started as curiosity turned into a lifelong craft. Currently developing a personal game project, <strong>Echoes of SERA</strong> — a passion-fueled blend of combat systems, hand-drawn animation, and original music. I design, code, draw, compose, and occasionally touch grass.</p>
 
 ###
 
@@ -75,6 +75,16 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=for-the-badge" height="24" alt="lua logo"  />
 </div>
+
+###
+
+<h2 align="left">💡 Experiences and Skills</h2>
+<h4>🕹 Game Development</h4>
+<p align="left">Experienced in developing 2D and 3D games using Unity, with a solid grasp of gameplay programming, animation systems, audio integration, and custom tools. Comfortable across the entire development pipeline—from concept to polished build.</p>
+<h4>🧠 General Programming</h4>
+<p align="left">Comfortable in a jungle of languages — C++, Python, Java, Lua, and more. Whether it’s building tools, scripts, or full-on applications, I stitch together the right stack for the job and make it play nice (most of the time).</p>
+<h4>🌐 Full Stack Development</h4>
+<p align="left">Proficient in building full stack web applications with React, Next.js and Node.js. Strong focus on testing environment using Jest, clean UI/UX, RESTful APIs, and implementation of back-end for logic manipulations</p>
 
 ###
 
