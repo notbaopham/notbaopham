@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">You have happen to stumble upon Bao Pham's GitHub repo and there has been in total...</p>
+<p align="left">You have happened to stumble upon Bao Pham's GitHub repo and there has been in total...</p>
 
 ###
 
