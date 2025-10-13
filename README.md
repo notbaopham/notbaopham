@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">✨ Coding since 2006 — what started as curiosity turned into a lifelong craft. Currently developing a personal game project, <strong>Echoes of SERA</strong> — a passion-fueled blend of combat systems, hand-drawn animation, and original music. I design, code, draw, compose, and occasionally touch grass.</p>
+<p align="left">✨ Coding since 2006 — what started as curiosity turned into a lifelong craft. Currently developing a personal game project, programming related helpers, tools, and applications. Occasionally touch grass.</p>
 
 ###
 
