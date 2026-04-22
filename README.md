@@ -2,11 +2,13 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">🔎 About me</h2>
 
 ###
 
-<p align="left">✨ Coding since 2006 — what started as curiosity turned into a lifelong craft. Currently developing a personal game project, programming related helpers, tools, and applications. Occasionally touch grass.</p>
+<p align="left"> 4th-year student at UBCO. 
+  Deep interest in Software Engineering and Full-Stack Development. 
+  Burning passion for Game Development. </p>
 
 ###
 
