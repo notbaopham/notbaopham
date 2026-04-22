@@ -1,18 +1,4 @@
-<h1 align="left">print("Hello there, I'm Bao Pham")</h1>
-
-###
-
-<p align="left">You have happened to stumble upon Bao Pham's GitHub repo and there has been in total...</p>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/notbaopham/count.svg?"  />
-</div>
-
-###
-
-<p align="left">of lost souls traversed here.</p>
+<h1 align="middle">👋 Hello there! I'm Bao Pham  </h1>
 
 ###
 
