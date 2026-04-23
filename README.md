@@ -10,13 +10,13 @@
 
 ###
 
-<h2 align="left">⌨️ Stacks</h2>
+<h2 align="left">🌐 Stacks</h2>
 
 ###
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html, css, django, nextjs, mysql, react, unity" />
+    <img src="https://skillicons.dev/icons?i=html,css,django,nextjs,mysql,react,unity" />
   </a>
 </p>
 
@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py, java, c, cs, cpp, js" />
+    <img src="https://skillicons.dev/icons?i=py,java,c,cs,cpp,js" />
   </a>
 </p>
 
