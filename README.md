@@ -37,7 +37,7 @@
 <h2 align="left">📌 Pinned Projects</h2>
 <p><b>Accord</b> - Real-Time Privacy-First Direct Messaging</p>
 <p><b>Digital Artifact Miner</b>  - desktop files to identify the digital outputs of the users, with built-in Resume and Portfolio generator</p>
-<p><b>Aurelia</b>- 2D platformer built in Unity</p>
+<p><b>Aurelia</b> - 2D platformer built in Unity</p>
 
 <h2 align="left">🔧 Currently Working On</h2>
 <p><b>Echoes of Sera</b> - A 2D platformer in Unit - combat and world vibrance first</p>
