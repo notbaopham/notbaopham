@@ -71,6 +71,10 @@
 <p><b>Digital Artifact Miner</b>  - desktop files to identify the digital outputs of the users, with built-in Resume and Portfolio generator</p>
 <p><b>Aurelia</b>- 2D platformer built in Unity</p>
 
+<h2 align="left">🔧 Currently Working On
+<p><b>Aurelia</b> - A 2D platformer in Unity</p>
+<p><b>Buke_</b> - An online/offline digital books database to keep track of your literacy - on phone, desktops or online</p>
+
 ###
 
 <img src="https://raw.githubusercontent.com/notbaopham/notbaopham/output/snake.svg" alt="Snake animation" />
