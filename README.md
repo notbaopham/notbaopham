@@ -40,8 +40,8 @@
 <p><b>Aurelia</b> - 2D platformer built in Unity</p>
 
 <h2 align="left">🔧 Currently Working On</h2>
-<p><b>Echoes of Sera</b> - A 2D platformer in Unit - combat and world vibrance first</p>
-<p><b>Shelf_</b> - An online/offline digital book library to keep track of your literacy - on phone, desktops or online</p>
+<p><b>Echoes of Sera</b> - A 2D platformer - exquisite combat system, undulating and tailored pixel-art</p>
+<p><b>Shelf_</b> - Digital book library to keep track of your literacies</p>
 
 ###
 
