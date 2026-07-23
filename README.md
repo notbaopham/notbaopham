@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left"> Im a 4th-year student at UBCO, who is harboring deep interest in <b>Software Engineering</b>, <b>Full-Stack Development</b>, and <b>Game Development</b>.</p>
+<p align="left"> CS graduate from UBCO, who is passionate about <b>Software Engineering</b>, <b>Full-Stack Development</b>, and <b>Game Development</b>.</p>
 
 ###
 
